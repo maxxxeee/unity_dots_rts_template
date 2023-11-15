@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 0
+    path: Assets/Scenes/combat_test.unity
+    guid: 4b70f7a04eb167819ab35dd173bc9f1e
+  - enabled: 0
+    path: Assets/Scenes/battle_test_2_mono.unity
+    guid: 8582800f8e6649f1ea4825b825646598
+  - enabled: 0
+    path: Assets/Scenes/benchmark_base.unity
+    guid: 1b3c280ebd6580157a70b0b81276567d
+  - enabled: 0
+    path: Assets/Scenes/blankLoading_scene.unity
+    guid: ee2b3b21f4028c88e9427ce18673cd42
+  - enabled: 0
+    path: Assets/Scenes/benchmark_mono_mass.unity
+    guid: dc1e4a15de3f6dbb1a52504432a6b519
+  - enabled: 1
+    path: Assets/Scenes/userInput_combatMassSpawn_scene.unity
+    guid: 98df50f28e9080c1bb7d96610b0edcc5
+  - enabled: 1
+    path: Assets/Scenes/combat_mass_spawn_userInput.unity
+    guid: 36d25e132e5f4cbf79e2ee28633dd190
+  - enabled: 0
+    path: Assets/Scenes/combat_mass_spawn.unity
+    guid: 0b7371331b256b2b3afae0f62b2f0b87
+  - enabled: 0
+    path: Assets/Scenes/combat_mass_spawn/Entity Scene.unity
+    guid: 7d9abdb9479d2d2abbd7a441e01b703e
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

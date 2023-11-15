@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Team2
+  - Team1
+  - Graphy
+  - Graphy_FPS_Module
+  - Graphy_Manager
+  - spawendTanksUI
+  - benchmarkManager_mono
+  - benchmarkManager_ecs
+  - monoGraphPlotter
+  - dataCapturer
+  - target
+  - Terrain
+  - hoverHealthBar
+  - factoryProductionUI
+  - factoryHolder
+  - userInputHolder
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - combat
+  - navigatio
+  - units
+  - Team1
+  - Team2
+  - 
+  - 
+  - navMeshIgnore
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
